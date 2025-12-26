@@ -1,0 +1,54 @@
+{
+  "data": {
+    "music": [
+      {
+        "musicUrl": "王小帅不是因为寂寞才想你",
+        "songerName": "王小帅"
+      },
+      {
+        "musicUrl": "一定会",
+        "songerName": "林俊杰"
+      },
+      {
+        "musicUrl": "颜人中孤单心事",
+        "songerName": "颜人中"
+      },
+      {
+        "musicUrl": "安和桥",
+        "songerName": "颜人中"
+      },
+      {
+        "musicUrl": "成都",
+        "songerName": "颜人中"
+      },
+      {
+        "musicUrl": "城北的花",
+        "songerName": "颜人中"
+      },
+      {
+        "musicUrl": "黑夜问白天",
+        "songerName": "颜人中"
+      },
+      {
+        "musicUrl": "交换余生",
+        "songerName": "颜人中"
+      },
+      {
+        "musicUrl": "哪里都是你",
+        "songerName": "颜人中"
+      },
+      {
+        "musicUrl": "忘记时间",
+        "songerName": "颜人中"
+      },
+      {
+        "musicUrl": "夏天的风",
+        "songerName": "颜人中"
+      },
+      {
+        "musicUrl": "至少还有你",
+        "songerName": "颜人中"
+      }
+    ]
+  }
+}
